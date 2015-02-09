@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails dhl_ora_jruby_rails: development" uuid="7da8a59b-5997-48dd-b333-4a0d055525f0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails dhl_ora_jruby_rails: production" uuid="4b8f9713-8971-4787-88f0-476c934bb453">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

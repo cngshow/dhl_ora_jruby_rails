@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3664273887">
+    <data-source source="LOCAL" name="Rails dhl_ora_jruby_rails: development" uuid="7da8a59b-5997-48dd-b333-4a0d055525f0">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\dhl\dhl_ora_jruby_rails\db\development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails dhl_ora_jruby_rails: production" uuid="4b8f9713-8971-4787-88f0-476c934bb453">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\dhl\dhl_ora_jruby_rails\db\production.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

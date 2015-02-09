@@ -1,0 +1,6 @@
+<p>
+  Below is a list of Oracle tables available to:  <span class="ora_user_name"><%= $application_properties['oracle_user']%></span><br>
+  Current Time is: <%= Time.now %>
+</p>
+
+<%= render :partial => 'oracle_table/oracle_tables' %>

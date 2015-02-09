@@ -1,0 +1,5 @@
+<table><tr><th>Oracle 11G Table Names</th></tr>
+  <% @table_array.each do |t| %>
+      <tr class="<%= cycle 'odd', 'even'%>"><td><%= t %></td></tr>
+  <%end%>
+</table>
